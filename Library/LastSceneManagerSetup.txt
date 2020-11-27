@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/UnityEDU/Scenes/Main_Complete.unity
+  isLoaded: 1
+  isActive: 1
